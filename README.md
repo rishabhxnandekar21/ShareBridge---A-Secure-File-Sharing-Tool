@@ -1,4 +1,5 @@
-🛡️ SafeBridge
+##🛡️ SafeBridge
+
 Secure, Encrypted File Transfer Utility
 SafeBridge is a lightweight, cross-platform file transfer tool built by 0x4m4. It ensures your files are transferred safely and privately over a network using end-to-end AES-256 encryption.
 ________________________________________
